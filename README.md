@@ -6,3 +6,7 @@ Practical sessions for IoT data science class
 
 [Practical session 2
 ](https://github.com/bgalerne/IoT_data_science/blob/main/2_iot_data_science.ipynb)
+
+
+[Practical session 3
+](https://github.com/bgalerne/IoT_data_science/blob/main/3_iot_data_science.ipynb)
