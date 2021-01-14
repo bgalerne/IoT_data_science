@@ -14,3 +14,5 @@ Practical sessions for IoT data science class
 [Practical session 4
 ](https://github.com/bgalerne/IoT_data_science/blob/main/4_iot_multiclass_logistic_regression.ipynb)
 
+[Practical session 6
+](https://github.com/bgalerne/IoT_data_science/blob/main/6_iot_transfer_learning_tutorial.ipynb)
